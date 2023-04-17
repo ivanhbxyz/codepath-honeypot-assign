@@ -1,14 +1,10 @@
-# Week10and11Assign
-Week 10 &amp; 11 Project: Honeypot
-
-# Honeypot Assignment
-
-**Time spent:** **6** hours spent in total
+# Assignment: Deploy and monitor honeypot
+### Date: 21NOV2021
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
 
-### MHN-Admin Deployment (Required)
+### MHN-Admin Deployment
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
 	I deployed the MHN-Admin server vm and the honeypot hosts using Google Cloud and the instructions provided. 
@@ -17,7 +13,7 @@ Week 10 &amp; 11 Project: Honeypot
 
 
 
-### Dionaea Honeypot Deployment (Required)
+### Dionaea Honeypot Deployment
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
@@ -29,7 +25,7 @@ Week 10 &amp; 11 Project: Honeypot
 ![Dionaea Deployed](https://user-images.githubusercontent.com/10326824/140461763-f820d351-3255-4226-9c8a-e6e670480030.gif)
 
 
-### Database Backup (Required) 
+### Database Backup
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
@@ -40,7 +36,7 @@ Week 10 &amp; 11 Project: Honeypot
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
 
-### Deploying Additional Honeypot(s) (Optional)
+### Deploying Additional Honeypot(s)
 #### anum honeypot and conpot honeypot
 
 
@@ -56,7 +52,7 @@ Week 10 &amp; 11 Project: Honeypot
 
 
 
-### Malware Capture and Identification (Optional)
+### Malware Capture and Identification
 #### Malware:: Ransom:Win32/CVE-2017-0147.b52e707a
 
 
